@@ -12,7 +12,6 @@
 
 | Projects          | Designation                           | Duration       |
 |-------------------|--------------------------------------|----------------|
-| **MineWorld**     | Server Development<br>Website Development | 2023 - 2023    |
 | **WildParadise**  | Website Development<br>S. Administrator | 2023 - 2024    |
 | **FyreMC**        | Server Configurator                  | 2024 -         |
 | **Secret project** | 🤫                                  | 2024 -         |
