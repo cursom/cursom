@@ -4,6 +4,7 @@
 - I'm from **Hungary 🇭🇺**
 - Interested in **web developement** ⚡
 - Reach me at **[discord](https://discord.com/users/467628010577723392)** 📫
+- You can email me at **[cursom.contact@gmail.com](mailto:cursom.contact@gmail.com)** 📧
 
 ## ⚡ My Development Stack
 
