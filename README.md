@@ -1,7 +1,5 @@
 <h1 align="center"> Hey, I'm cursom! 👋</h1>
 
-![](https://komarev.com/ghpvc/?username=cursom)
-
 ### 🌍 About Me
 - I'm from **Hungary 🇭🇺**
 - Interested in **web developement** ⚡
